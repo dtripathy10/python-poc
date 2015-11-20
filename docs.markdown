@@ -7,6 +7,8 @@
 
 + `pip install south`
 
++ . myvenv/bin/activate
+
 + `python manage.py syncdb`
 
 
